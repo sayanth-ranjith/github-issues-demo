@@ -44,8 +44,8 @@ body:
     attributes:
       label: Issue criticality
       options:
-        - sev1
-        - sev2
-        - sev3
-        - sev4
-        - relax lol!
+        - label: sev1
+        - label: sev2
+        - label: sev3
+        - label: sev4
+        - label: relax lol!
