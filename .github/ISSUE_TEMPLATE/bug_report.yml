@@ -10,11 +10,17 @@ body:
         Thanks for taking the time to fill out this bug report!
 
   - type: input
-    id: contact
+    id: Assigner
     attributes:
       label: Contact Details
       placeholder: email@example.com
-
+    
+  - type: input
+    id: Assignee
+    attributes:
+      label: Contact Details
+      placeholder: email@example.com
+      
   - type: textarea
     id: what-happened
     attributes:
