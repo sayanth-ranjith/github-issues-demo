@@ -39,7 +39,7 @@ body:
     validations:
       required: true
       
-  - type: checkbox
+  - type: checkboxes
     id: checkbox1
     attributes:
       label: Issue criticality
