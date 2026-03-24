@@ -10,15 +10,15 @@ body:
         Thanks for taking the time to fill out this bug report!
 
   - type: input
-    id: Assigner
+    id: assigner
     attributes:
-      label: Contact Details
+      label: Assigner Details
       placeholder: email@example.com
     
   - type: input
-    id: Assignee
+    id: assignee
     attributes:
-      label: Contact Details
+      label: Assignee Details
       placeholder: email@example.com
       
   - type: textarea
@@ -38,3 +38,14 @@ body:
         - 1.0.3
     validations:
       required: true
+      
+  - type: checkbox
+    id: checkbox1
+    attributes:
+      label: Issue criticality
+      options:
+        - sev1
+        - sev2
+        - sev3
+        - sev4
+        - relax lol!
