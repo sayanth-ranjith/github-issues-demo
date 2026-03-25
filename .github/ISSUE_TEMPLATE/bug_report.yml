@@ -15,8 +15,8 @@ body:
       label: Assigner Details
       placeholder: email@example.com
    
-    - type: dropdown
-    id: version
+  - type: dropdown
+    id: testerName
     attributes:
       label: Tester Name
       options:
