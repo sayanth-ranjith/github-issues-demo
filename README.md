@@ -4,3 +4,5 @@ This project is solely to understand why we use github issues and how to design 
 Contributors - @sayanth-ranjith.
 
 Coauthor - S Harivenkatesh
+
+Interesting people use GitHub issues lol 
